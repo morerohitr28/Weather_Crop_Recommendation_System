@@ -1,0 +1,46 @@
+location,season,temperature,humidity,rainfall,rainfall_category
+Maharashtra,Kharif,27.5,78,185.2,normal
+Maharashtra,Kharif,28.1,82,220.5,high
+Maharashtra,Kharif,26.8,75,145.7,normal
+Maharashtra,Kharif,29.2,70,92.4,low
+Maharashtra,Kharif,27.9,80,198.6,normal
+Maharashtra,Kharif,28.7,84,245.3,high
+Maharashtra,Kharif,26.5,73,118.2,low
+Maharashtra,Kharif,27.2,79,176.8,normal
+Maharashtra,Kharif,29.0,86,260.1,high
+Maharashtra,Kharif,28.3,77,162.5,normal
+Maharashtra,Rabi,21.4,52,42.5,normal
+Maharashtra,Rabi,20.8,48,25.7,low
+Maharashtra,Rabi,22.1,55,58.3,high
+Maharashtra,Rabi,19.9,45,18.6,low
+Maharashtra,Rabi,21.7,51,39.4,normal
+Maharashtra,Rabi,23.0,57,65.2,high
+Maharashtra,Rabi,20.5,49,31.8,normal
+Maharashtra,Rabi,22.4,54,46.7,normal
+Maharashtra,Rabi,19.6,44,15.9,low
+Maharashtra,Rabi,21.9,53,51.3,high
+Maharashtra,Summer,31.5,48,18.2,low
+Maharashtra,Summer,33.2,52,25.6,normal
+Maharashtra,Summer,34.5,55,32.8,high
+Maharashtra,Summer,32.8,46,12.4,low
+Maharashtra,Summer,35.1,58,38.5,high
+Maharashtra,Summer,33.7,50,22.1,normal
+Maharashtra,Summer,36.0,60,45.7,high
+Maharashtra,Summer,31.9,44,10.8,low
+Maharashtra,Summer,34.0,53,28.9,normal
+Maharashtra,Summer,35.5,57,41.2,high
+Karnataka,Kharif,26.8,80,195.4,normal
+Karnataka,Kharif,27.5,84,235.8,high
+Karnataka,Kharif,25.9,76,155.6,normal
+Karnataka,Kharif,28.2,72,105.3,low
+Karnataka,Kharif,27.1,81,210.7,high
+Madhya Pradesh,Kharif,27.8,75,175.4,normal
+Madhya Pradesh,Kharif,29.1,78,220.2,high
+Madhya Pradesh,Kharif,26.4,70,110.5,low
+Madhya Pradesh,Rabi,20.6,49,32.4,normal
+Madhya Pradesh,Rabi,21.8,53,48.7,high
+Gujarat,Kharif,29.5,68,95.6,normal
+Gujarat,Kharif,30.2,72,135.4,high
+Gujarat,Kharif,28.7,64,65.8,low
+Gujarat,Rabi,22.5,46,28.5,normal
+Gujarat,Rabi,21.3,42,15.2,low
